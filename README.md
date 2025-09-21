@@ -7,6 +7,9 @@
    * DATABRICKS_HTTP_PATH：SQLウェアハウスのHTTPパス
    * DATABRICKS_ACCESS_TOKEN：パーソナルアクセストークン
 2. Cursor上で mcp.json を設定
-   ![1758354401164](image/README/1758354401164.png)
+   ![mcp_setting](mcp_setting.png)
 3. run.sh を実行し、アプリをローカルで起動
 4. Databricks Appsでアプリを実行する場合は、[Doc](https://docs.databricks.com/aws/ja/dev-tools/databricks-apps/) に従って構成ファイルなどを作成し、デプロイを実行
+
+## デモ動画
+![Demo](demo.gif)
